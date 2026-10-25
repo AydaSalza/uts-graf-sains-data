@@ -1,0 +1,15 @@
+
+# Python virtual environment
+myenv/
+venv/
+.venv/
+
+# Dataset lokal
+data/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# File rahasia
+.env
